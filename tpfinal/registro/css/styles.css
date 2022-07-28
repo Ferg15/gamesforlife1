@@ -1,0 +1,18 @@
+body {
+	background-color:#cccccc;
+}
+.container {
+	margin-left: 500px;
+	padding: auto;
+	margin-top: 60px;
+}
+form {
+	border:1px solid;
+	padding: 60px;
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+}
+h1 {
+	text-align: center;	
+}

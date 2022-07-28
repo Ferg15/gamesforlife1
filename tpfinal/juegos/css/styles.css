@@ -1,0 +1,107 @@
+body {
+	background-color: #cccccc
+}
+#logitpo{
+	float: left;
+}
+#login {
+	width:200px; 
+	float: right;
+	margin-top: 65px;
+}
+#registro {
+	width:200px; 
+	float: right;
+	margin-top: 65px;
+	text-align: right;
+}
+.inic-btn {
+	background-color: #463f57;
+	color: white; 
+	padding:10px 15px;	
+	text-decoration: none;
+	font-family: sans-serif;
+}
+.reg-btn {
+	background-color: #463f57;
+	color: white; 
+	padding:10px 13px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+#navegacion {
+	height: 59px;
+}
+#navegacion li{
+	float: left;
+	list-style:none;
+	margin:0px 20px 0px 20px;
+	color: black;
+	text-align: center;
+	margin-left: 250px;
+	font-family: sans-serif;
+}
+#navegacion a {
+	color:white;
+	text-decoration: none;
+}
+.container1 {
+	margin-top: 50px;
+	border: 1px solid;
+}
+#carouselExampleInterval {
+	width: 100%;
+	max-width: 400px;
+	float: right;
+}
+.container2 {
+	margin: 70px;
+	text-align: left;
+	border:2px solid;
+}
+.container2 h2{
+	font-family: sans-serif;
+}
+.container2 p {
+	font-family: sans-serif;
+}
+.clearfix {
+	float: right;
+	border: 2px solid;
+}
+.video {
+	margin-left: 370px;
+}
+.container3 {
+	margin:70px;
+	text-align: left;
+	border:2px solid;
+}
+.container3 h2 {
+	font-family: sans-serif;
+}
+.container4 p {
+	font-family: sans-serif;
+}
+.container4 {
+	margin: 70px;
+	text-align: left;
+	border:2px solid;
+}
+.container4 h2 {
+	font-family: sans-serif;
+}
+.container4 p {
+	font-family: sans-serif;
+}
+.container5 {
+	margin: 70px;
+	text-align: left;
+	border:2px solid;
+}
+.container5 h2{
+	font-family: sans-serif;
+}
+.container5 p {
+	font-family: sans-serif;
+}
